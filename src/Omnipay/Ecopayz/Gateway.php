@@ -6,7 +6,7 @@ use Omnipay\Common\AbstractGateway;
 /**
  * Ecopayz Gateway
  *
- * @author Alexander Fedra <contact@dercoder.at>
+ * @author Alexander Fedra <contact@lygutas.at>
  * @copyright 2015 DerCoder
  * @license http://opensource.org/licenses/mit-license.php MIT
  */

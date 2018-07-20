@@ -1,5 +1,5 @@
 {
-    "name": "dercoder/omnipay-ecopayz",
+    "name": "lygutas/omnipay-ecopayz",
     "type": "library",
     "description": "Ecopayz driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,16 +10,16 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/dercoder/omnipay-ecopayz",
+    "homepage": "https://github.com/lygutas/omnipay-ecopayz",
     "license": "MIT",
     "autoload": {
         "psr-0": { "Omnipay\\Ecopayz\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~2.3"
+        "omnipay/common": "^3"
     },
     "require-dev": {
-        "omnipay/tests": "~2.0",
+        "omnipay/tests": "^3",
         "satooshi/php-coveralls": "1.0.0"
     },
     "extra": {

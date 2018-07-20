@@ -4,7 +4,7 @@ namespace Omnipay\Ecopayz\Message;
 /**
  * Ecopayz Complete Purchase Response
  *
- * @author    Alexander Fedra <contact@dercoder.at>
+ * @author    Alexander Fedra <contact@lygutas.at>
  * @copyright 2015 DerCoder
  * @license   http://opensource.org/licenses/mit-license.php MIT
  * @version   2.0.3 Ecopayz API Specification

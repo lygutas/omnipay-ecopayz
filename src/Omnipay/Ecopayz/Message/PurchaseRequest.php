@@ -9,7 +9,7 @@ namespace Omnipay\Ecopayz\Message;
  * so it offers various payment methods to the client (for example, ecoPayz).
  * When the client chooses ecoPayz, the next step can be executed.
  *
- * @author Alexander Fedra <contact@dercoder.at>
+ * @author Alexander Fedra <contact@lygutas.at>
  * @copyright 2015 DerCoder
  * @license http://opensource.org/licenses/mit-license.php MIT
  * @version 2.0.6 Ecopayz API Specification
